@@ -25,14 +25,7 @@ Quick Note is a modern, efficient note-taking application built with Next.js and
 
 ## Demo
 
-![Quick Note Demo](path/to/demo-video-thumbnail.png)
-
-You can watch a video demonstration of Quick Note in action below:
-
-<!-- Embed a YouTube video -->
-[![Watch the Quick Note Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-*Note: Replace `YOUR_VIDEO_ID` with the actual ID of your YouTube video.*
+You can try out Quick Note live at [https://simple-note-222.vercel.app/](https://simple-note-222.vercel.app/).
 
 ## Installation
 
