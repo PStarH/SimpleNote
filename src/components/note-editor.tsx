@@ -1,6 +1,5 @@
 'use client'
 
-import { Card, CardContent } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { type Note } from "@/types/note"
 
