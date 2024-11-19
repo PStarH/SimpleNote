@@ -4,6 +4,7 @@ const nextConfig = {
   experimental: {
     swcLoader: false,
   },
+  distDir: 'dist',
 }
 
 module.exports = nextConfig
