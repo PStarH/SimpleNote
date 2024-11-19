@@ -1,5 +1,3 @@
-### Changes Made
-
 # Quick Note
 
 Quick Note is a modern, efficient note-taking application built with Next.js and React. It offers a seamless experience for creating, editing, and managing your notes with intuitive keyboard shortcuts and a sleek user interface.
